@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FyzShk
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning HTML, CSS, JS and ReactJs
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me: Email: fyzshk777@gmail.com 
 
